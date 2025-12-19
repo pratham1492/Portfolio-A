@@ -422,7 +422,7 @@ nav{
     border-radius: 10px;
 }
 
-.submit-botton .submit {
+.submit-botton{
     width: 100%;
     padding: 10px;
     background-color:   blue;
@@ -512,4 +512,5 @@ footer hr{
     text-align: center;
     color: #dadada;
 }
+
 /* Footer section ends */
